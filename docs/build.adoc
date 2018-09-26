@@ -33,3 +33,5 @@ Compiled Binary Blink Firmware
 . Select *Tools > Board > <your board type>* from the Arduino IDE menu
 . Select *Sketch > Verify/Compile* from the Arduino IDE menu
 . Wait for the "Done compiling." status message in the status bar at the bottom of the code editor in the Arduino IDE
+
+NOTE: If you do not see your board type listed, use the https://www.arduino.cc/en/Guide/Cores[Board Manager] to install required files in the IDE.
