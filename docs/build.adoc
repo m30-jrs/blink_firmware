@@ -1,0 +1,35 @@
+= Building Blink Firmware
+J. Simmons <jrs@mach30.org>
+:revnumber: v0.1
+:revdate: 09-26-2018
+:revremark: First draft
+:toc:
+
+_Based on the Arduino Blink example (https://www.arduino.cc/en/tutorial/blink)._
+
+== Tools
+
+* Personal Computer (Windows/Mac/Linux)
+* https://www.arduino.cc/en/Main/Software[Arduino IDE]
+
+== Materials
+
+n/a
+
+== Safety Issues
+
+none
+
+== Product
+
+Compiled Binary Blink Firmware
+
+== Procedure
+
+. Launch the Arduino IDE
+. Select *File > Open* from the Arduino IDE menu
+. Browse to "source/blink/blink.ino"
+. Click the *Open* menu
+. Select *Tools > Board > <your board type>* from the Arduino IDE menu
+. Select *Sketch > Verify/Compile* from the Arduino IDE menu
+. Wait for the "Done compiling." status message in the status bar at the bottom of the code editor in the Arduino IDE

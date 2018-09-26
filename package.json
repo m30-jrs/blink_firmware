@@ -1,0 +1,5 @@
+{
+  "name": "blink_firmware",
+  "version": "2.1.0",
+  "description": "Ardunio firmware that turns an LED on for one second, then off for one second, repeatedly."
+}
